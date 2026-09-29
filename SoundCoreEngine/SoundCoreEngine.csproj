@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>SoundCore</RootNamespace>
+    <AssemblyName>SoundCoreEngine</AssemblyName>
+    <LangVersion>14.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
